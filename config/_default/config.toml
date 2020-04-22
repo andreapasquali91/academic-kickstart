@@ -17,8 +17,8 @@ copyright = "Browser bar icon made by Alfredo Hernandez from www.flaticon.com --
 showfooter= false
 
 #attempt at robots, 22.4.20
-enableRobotsTXT = true
-canonifyURLs = true
+#enableRobotsTXT = true
+#canonifyURLs = true
 
 ############################
 ## Advanced options below ##
