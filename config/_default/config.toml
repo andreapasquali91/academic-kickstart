@@ -16,6 +16,10 @@ baseurl = "https://andreapasquali.netlify.com/"
 copyright = "Browser bar icon made by Alfredo Hernandez from www.flaticon.com -- &copy; {year} Andrea Pasquali"
 showfooter= false
 
+#attempt at robots, 22.4.20
+enableRobotsTXT = true
+canonifyURLs = true
+
 ############################
 ## Advanced options below ##
 ############################
