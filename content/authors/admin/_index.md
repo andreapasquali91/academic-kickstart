@@ -47,6 +47,11 @@ interests=["Finite-dimensional algebras", "Higher dimensional Auslander-Reiten t
  icon_pack = "ai"
  link = "files/cv.pdf"
 
+[[social]]
+ icon = "github"
+ icon_pack = "fab"
+ link = "https://github.com/andreapasquali91"
+
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email= ""
   
