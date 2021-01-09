@@ -1,6 +1,6 @@
 +++
 # Display name
-name= "Andrea Pasquali"
+title= "Andrea Pasquali"
 
 # Username (this should match the folder name)
 authors= "admin"
@@ -40,7 +40,7 @@ interests=["Finite-dimensional algebras", "Higher dimensional Auslander-Reiten t
 [[social]]
  icon = "envelope" # Can also use"paper-plane" "envelope" or "cv"
  icon_pack = "fas"
- link = "mailto:andrea.pasquali@mathematik.uni-stuttgart.de" # For a direct email link, use "mailto:test@example.org". For pointing to the contact widget, use "#contact"
+ link = "mailto:andrea.pasquali91@gmail.com" # For a direct email link, use "mailto:test@example.org". For pointing to the contact widget, use "#contact"
 
 [[social]]
  icon = "cv"
@@ -62,13 +62,15 @@ email= ""
 #- Visitors
 
 +++
-I am a mathematician specialising in algebra. 
+I am a mathematician specialised in algebra. 
 
 Here you can find more details about my [research]({{<ref "research">}}) as well as my [publications]({{<ref "publication">}}).
 
-Currently I am a postdoctoral researcher at [Universität Stuttgart](https://www.iaz.uni-stuttgart.de/en/index.html), in [Steffen Koenig](https://pnp.mathematik.uni-stuttgart.de/iaz/iaz1/Koenig/index.html)'s group, with a grant by the [Alexander von Humboldt foundation](https://www.humboldt-foundation.de/web/home.html). 
+Currently I am working as a high school teacher in Longarone (Italy).
+
+Previously I was a postdoctoral researcher at [Universität Stuttgart](https://www.iaz.uni-stuttgart.de/en/index.html), in [Steffen Koenig](https://pnp.mathematik.uni-stuttgart.de/iaz/iaz1/Koenig/index.html)'s group, with a grant by the [Alexander von Humboldt foundation](https://www.humboldt-foundation.de/web/home.html). 
 
 In June 2019 I defended my [thesis](/files/thesis.pdf) at [Uppsala University](http://www.math.uu.se/?languageId=1). My advisor was [Martin Herschend](http://www2.math.uu.se/~martinh/).
 
-You are welcome to [contact](/contact) me, preferably by [email](mailto:andrea.pasquali@mathematik.uni-stuttgart.de).
+You are welcome to [contact](/contact) me, preferably by [email](mailto:andrea.pasquali91@gmail.com).
 
