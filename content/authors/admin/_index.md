@@ -66,7 +66,7 @@ I am a mathematician specialised in algebra.
 
 Here you can find more details about my [research]({{<ref "research">}}) as well as my [publications]({{<ref "publication">}}).
 
-Currently I am working as a high school teacher in Longarone (Italy).
+Currently I am working as a high school teacher in Belluno (Italy).
 
 Previously I was a postdoctoral researcher at [Universität Stuttgart](https://www.iaz.uni-stuttgart.de/en/index.html), in [Steffen Koenig](https://pnp.mathematik.uni-stuttgart.de/iaz/iaz1/Koenig/index.html)'s group, with a grant by the [Alexander von Humboldt foundation](https://www.humboldt-foundation.de/web/home.html). 
 
