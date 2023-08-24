@@ -1,7 +1,7 @@
 +++
 title= "Orbifold diagrams"
-date= "2020-10-26"
-publishDate= "2020-10-26"
+date= "2023-10-26"
+publishDate= "2023-10-26"
 authors= ["Karin Baur", "Andrea Pasquali", "Diego Velasco"]
 publication_types= ["2"]
 abstract= ""
