@@ -68,9 +68,9 @@ Here you can find more details about my [research]({{<ref "research">}}) as well
 
 Currently I am working as a high school teacher in Belluno (Italy).
 
-Previously I was a postdoctoral researcher at [Universität Stuttgart](https://www.iaz.uni-stuttgart.de/en/index.html), in [Steffen Koenig](https://pnp.mathematik.uni-stuttgart.de/iaz/iaz1/Koenig/index.html)'s group, with a grant by the [Alexander von Humboldt foundation](https://www.humboldt-foundation.de/web/home.html). 
+Previously I was a postdoctoral researcher at Universität Stuttgart, in [Steffen Koenig](https://pnp.mathematik.uni-stuttgart.de/iaz/iaz1/Koenig/index.html)'s group, with a grant by the Alexander von Humboldt foundation. 
 
-In June 2019 I defended my [thesis](/files/thesis.pdf) at [Uppsala University](http://www.math.uu.se/?languageId=1). My advisor was [Martin Herschend](http://www2.math.uu.se/~martinh/).
+In June 2019 I defended my [thesis](/files/thesis.pdf) at Uppsala University. My advisor was [Martin Herschend](http://www2.math.uu.se/~martinh/).
 
 You are welcome to [contact](/contact) me, preferably by [email](mailto:andrea.pasquali91@gmail.com).
 
