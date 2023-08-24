@@ -19,13 +19,9 @@ subtitle = "Here is a list of games I like to play, in no particular order."
 * **The Resistance: Avalon** by D. Eskridge.
 * **Mage Knight Board Game** by  V. Chvátil.
 * **Santorini** by G. Hamilton.
-* **Dixit** by J.-L. Roubira.
-* **Mysterium** by O. Nevskiy, O. Sidorenko.
 * **Concept** by G. Beaujannot, A. Rivollet.
 * **Lord of the Rings** by R. Knizia.
 * **Mountaineers** by C. Wright.
-* **Time's Up!** by P. Sarrett.
 * **Patchwork** by U. Rosenberg.
 
-I am also decent at chess, very bad at Go, and have played a fair share of _Magic: The Gathering_.
-
+I am also decent at chess and very bad at Go.

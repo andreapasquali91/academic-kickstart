@@ -19,7 +19,7 @@ Some broad problems I looked at (and said something about) are:
 
 * Consider the QPs constructed as in [Baur-King-Marsh](https://arxiv.org/abs/1309.6524), but for arbitrary strand permutation. Find the self-injective ones. Can this class of QPs be described intrinsically?
 * Generalise the construction of [Amiot-Plamondon](https://arxiv.org/abs/1707.01834) to arbitrary surfaces with orbifold points. Save what we can save on the cluster side.
-* Generalise both constructions to strand diagrams on surfaces, and on surfaces with orbifold points. As a first case, study the disk with one orbifold point.
+* Generalise both constructions to strand diagrams on surfaces, and on surfaces with orbifold points. As a first case, study [the disk with one orbifold point](https://arxiv.org/abs/2010.13812).
 
 I am also usually interested in any kind of algebraic problems with a combinatorial flavour, and I like working with other people a lot (though at the moment I do not have much time). So if you have ideas you would like to share, feel free to [contact me.](mailto:andrea.pasquali91@gmail.com)
 
