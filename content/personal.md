@@ -12,9 +12,9 @@ I grew up in the town of Belluno in northeast Italy, where I was exposed to a lo
 In 2008-09 I spent a year in Aurillac in France, where I attended local high school and was hosted by a wonderful family. I then became a volunteer for [Intercultura](https://www.intercultura.it/), and I still am today.
 
 I did a bachelor in mathematics at the University of Padova, graduating in 2012. Then I enrolled in the [ALGANT](http://algant.eu/index.php) master program, within which I spent one more year in Padova and one year in Leiden in the Netherlands. 
-In 2014 I started my Ph.D. in Uppsala (Sweden), with [Martin Herschend](http://www2.math.uu.se/~martinh/) as supervisor. I defended my [thesis](/files/thesis.pdf) in June 2019.
+In 2014 I started my Ph.D. in Uppsala (Sweden), with Martin Herschend as supervisor. I defended my [thesis](/files/thesis.pdf) in June 2019.
 
-In 2019-2020 I was a postdoc in Stuttgart, in [Steffen Koenig](https://pnp.mathematik.uni-stuttgart.de/iaz/iaz1/Koenig/index.html)'s group, with a grant by the Alexander von Humboldt foundation. 
+In 2019-2020 I was a postdoc in Stuttgart, in Steffen Koenig's group, with a grant by the Alexander von Humboldt foundation. 
 
 In 2020 I (temporarily?) left academic research and moved back to Belluno, where I now work as a high school teacher.
 
