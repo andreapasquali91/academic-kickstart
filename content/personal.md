@@ -7,9 +7,6 @@ author_profile= true
 +++
 
 I grew up in the town of Belluno in northeast Italy, where I was exposed to a lot of mountains. 
-[Here]({{< ref "mountains" >}}) you can read more about them. 
-
-In 2008-09 I spent a year in Aurillac in France, where I attended local high school and was hosted by a wonderful family. I then became a volunteer for [Intercultura](https://www.intercultura.it/), and I still am today.
 
 I did a bachelor in mathematics at the University of Padova, graduating in 2012. Then I enrolled in the [ALGANT](http://algant.eu/index.php) master program, within which I spent one more year in Padova and one year in Leiden in the Netherlands. 
 In 2014 I started my Ph.D. in Uppsala (Sweden), with Martin Herschend as supervisor. I defended my [thesis](/files/thesis.pdf) in June 2019.
@@ -22,11 +19,6 @@ During my bachelor and master I was a student of the [Galilean School of Higher 
 
 My favourite team sport is [Ultimate](https://en.wikipedia.org/wiki/Ultimate_(sport)), which I learned in Leiden and am still practicing (ask me about it!). My go-to individual physical activity is climbing.
 
-My ideal holiday involves rock climbing, [hiking]({{< ref "mountains#summer" >}}) or [ski touring]({{< ref "mountains#winter" >}}) according to the season.
+My ideal holiday involves rock climbing, hiking or ski touring according to the season.
 
-I like board games, both playing and designing them. I am generally good at the former and bad at the latter. [Here]({{< ref "games" >}}) you can find a list of games I like.
-
-
-
-
-
+I like board games, both playing and designing them. I am generally good at the former and bad at the latter.
